@@ -9,9 +9,14 @@
  * @author luiz.fasilva19
  */
 public class main {
+
     
-    //test mudou
     
-    //agora é assim
     
+    
+    public static void main(String [] as){
+    
+        System.out.println("test 1");
+    
+    }
 }
